@@ -8,21 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e938bcd-11f2-4da5-9e6e-5fa35cdfbfd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WPF-CARDS.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/Controls/SpriteButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/Models/PostObjectModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Presentation/Presentation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WPF-CARDS/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +81,7 @@
       <updated>1631043161584</updated>
       <workItem from="1631043164146" duration="4347000" />
       <workItem from="1631051713221" duration="4976000" />
+      <workItem from="1631447859193" duration="839000" />
     </task>
     <servers />
   </component>
